@@ -29,7 +29,7 @@ Use as any node module:
 ```js
 import { Dropdown, user } from 'oam-design-system';
 ```  
-如果您想最小化綑綁大小，還可以直接包含組件。
+如果您想最小化打包後的大小，還可以直接包含組件。
 Bindings exported from `oam-design-system` are also available in `oam-design-system/assets/scripts`
 從 `oam-design-system` 輸出的綑綁物也可在  `oam-design-system/assets/scripts` 中使用
 ### assets/styles
