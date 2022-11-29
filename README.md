@@ -1,6 +1,6 @@
 # OAM Design System
 
-以下僅說明如何在新項目中包含 `oam-design-system`。有關使用信息，請查看[documentation website](http://hotosm.github.io/oam-docs/)。
+以下僅說明如何在新項目中include `oam-design-system`。有關使用信息，請查看[documentation website](http://hotosm.github.io/oam-docs/)。
 有關如何開發 `oam-design-system` 的信息，請查看 [DEVELOPMENT.md](DEVELOPMENT.md) 
 ---
 
